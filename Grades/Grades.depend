@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694866616 source:c:\users\carto\documents\informatik\programmieren\grades\main.c
+	<stdio.h>
+	<stdlib.h>
+
